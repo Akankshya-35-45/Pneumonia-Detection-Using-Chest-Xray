@@ -1,0 +1,14 @@
+Model Performance
+
+Training Accuracy : 93.73%
+Validation Accuracy : 81.25%
+Test Accuracy : 74.68%
+Loss : 0.6524
+
+Framework:
+TensorFlow
+Keras
+
+Classes:
+Normal
+Pneumonia
